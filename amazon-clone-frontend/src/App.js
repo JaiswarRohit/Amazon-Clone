@@ -15,7 +15,7 @@ import AddProduct from "./Components/AddProduct";
 import Orders from "./Components/Orders";
 
 const promise = loadStripe(
-  "pk_test_51KUDBXSE1AGsrDtwyXK8vcHYNkEOofJAP1vV1fRlpZNo93g4o80dZe4IvhAkBXo2ytDciCqqpynwQUXv7plCjezF00G9zyj4sc"
+  "pk_test"
 );
 
 function App() {
